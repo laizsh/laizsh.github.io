@@ -12,7 +12,7 @@
 
 * 在 Mac 上配置 Hexo 、 NPM 、 Git 环境，并将 Hexo 静态网页关联到 Github Page 。
 * 在 Windows 上配置 Hexo 、 NPM 、 Git 环境。
-* 在 Github Page 的仓库中创建一个分支用于保存 Hexo 源码，今后在任意终端提交完博客的修改后同时再执行 'hexo -d' 发布即可。
+* 在 Github Page 的仓库中创建一个分支用于保存 Hexo 源码，今后在任意终端提交完博客的修改后同时再执行 `hexo -d`发布即可。
 
 
 
@@ -25,7 +25,7 @@
 * [Git教程](http://www.runoob.com/git/git-tutorial.html)
 * [极好用的MD编辑器](https://www.typora.io/)
 
-> 注意：用于存放Hexo源码的分支，在提交源码时记得把文件夹中的 .gitignore 去掉，否则上传文件不全。
+> 注意：用于存放Hexo源码的分支，在提交源码时记得把文件夹中的 `.gitignore` 去掉，否则上传文件不全。
 
 
 
